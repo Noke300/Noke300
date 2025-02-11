@@ -5,7 +5,7 @@
 ## ❓ About Me
 - 👨‍🎓 Computer Science student
 - 🌱 Currently learning **Android** and **Kotlin**
-- 📚 Passionate about **  **
+- 📚 Passionate about **Graduateing**
 - 👨‍💻 Interested in **Operating Systems**, **Databases** and **Software Engineering**
 
 ---
