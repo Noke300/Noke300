@@ -34,8 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Noke300&theme=vue-dark&hide_border=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Noke300&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
 ---
 
 ## 📫 Connect with Me
