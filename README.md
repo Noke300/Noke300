@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noke300&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noke300&layout=compact&theme=vue-dark)?username=Noke300&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noke300&layout=compact&theme=vue-dark)?
 
 ---
 
